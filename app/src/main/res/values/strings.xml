@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">domaci1</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="text_view1">Lokacija za prikaz vremenske prognoze:</string>
+    <string name="prikazi">PRIKAZI</string>
+    <string name="lokacija1">Lokacija:</string>
+    <string name="dan">Dan:</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="izlazak_i_zalazak_sunca">Izlazak i zalazak sunca</string>
+    <string name="vetar">vetar</string>
+    <string name="jedinica">Jedinica:</string>
+    <string name="temperatura1">Temperatura: 10</string>
+    <string name="pritisak">Pritisak: 1000</string>
+    <string name="vlaznost">Vlaznost vazduha: 44</string>
+    <string name="text_view2">Izlazak sunca: 06:47</string>
+    <string name="text_view3">Zalazak sunca: 17:45</string>
+    <string name="text_view4">Brzina vetra: 4.1</string>
+    <string name="text_view5">Pravac: N</string>
+    <string name="bg">Belgrade</string>
+    <string name="ns">Novi Sad</string>
+    <string name="nis">Nis</string>
+    <string name="toastWarning1">Grad koji ste uneli vec postoji</string>
+    <string name="toastWarning2">Nista niste uneli!</string>
+</resources>
